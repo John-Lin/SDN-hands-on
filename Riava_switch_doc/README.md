@@ -1,4 +1,4 @@
-# Rivira Switch
+# Riava Switch
 
 ### Enter into CLI
 
