@@ -1,4 +1,22 @@
-# Riava Switch
+# Riava Switch Docs
+
+### Set controller
+
+```
+$ vi /usr/local/etc/lagopus/lagopus.conf
+```
+Edit `controller {A.B.C.D;}` to your controller IP.
+
+### Start lagopus
+```
+./start_lagopus.sh
+```
+
+### Stop lagopus
+
+```
+./stop_lagopus.sh
+```
 
 ### Enter into CLI
 
