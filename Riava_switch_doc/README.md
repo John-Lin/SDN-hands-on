@@ -21,6 +21,12 @@ Edit `controller {A.B.C.D;}` to your controller IP.
 ### Enter into CLI
 
 ```
+$ lagosh
+```
+
+or in `lagopus` folder
+
+```
 $ lagopus/src/config/cli/lagosh
 ```
 
